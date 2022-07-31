@@ -2,8 +2,9 @@
 <div align="">
   <a href="https://github.com/diogopfrazao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
-</div>
+
+<div><h2> Conhecimentos:</h2> </div>
+ </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Diogo-Linux" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 <img align="center" alt="Diogo-Linux" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
