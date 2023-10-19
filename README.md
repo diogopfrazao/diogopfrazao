@@ -1,14 +1,14 @@
 ## Hello!
 <div align="">
   <a href="https://github.com/diogopfrazao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 
 <div><h2> Conhecimentos:</h2> </div>
  </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Diogo-Linux" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-<img align="center" alt="Diogo-Linux" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
-<img align="center" alt="Diogo-Aws" height="70" width="80"src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">  
+<img align="center" alt="Diogo-Linux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img align="center" alt="Diogo-Linux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
+<img align="center" alt="Diogo-Aws" height="50" width="60"src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">  
 <img align="center" alt="Diogo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Diogo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Diogo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,3 +27,8 @@
   <a href="https://www.linkedin.com/in/diogopfrazao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+  ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true&bg_color=00000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogopfrazao )](https://github.com/anuraghazra/github-readme-stats )
+
