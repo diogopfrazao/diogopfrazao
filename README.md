@@ -36,7 +36,7 @@ Atuação voltada para **integração contínua (CI/CD), otimização de infraes
 ## Estatísticas do GitHub
 
 <p align="center">
-  
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopfrazao&layout=compact&theme=github_dark"/>
