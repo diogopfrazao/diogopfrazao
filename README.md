@@ -1,69 +1,71 @@
-<h1 align="center">Diogo Frazão</h1>
-<p align="center">
-Especialista em Infraestrutura, DevOps e Desenvolvimento de Sistemas
-</p>
+# Diogo Frazão
+
+**Infraestrutura • DevOps • Linux • Cloud • Backend**
+
+Administrador de sistemas e infraestrutura com experiência em servidores Linux, automação de ambientes, containers, cloud computing e desenvolvimento de aplicações web.
 
 ---
 
 ## Sobre
 
-Profissional com experiência em administração de servidores Linux, infraestrutura de redes, DevOps e desenvolvimento de aplicações web.  
-Atua com implantação, manutenção e automação de ambientes, além de gerenciamento de bancos de dados e serviços em nuvem.
+Profissional de tecnologia com atuação em:
+
+- Administração de servidores Linux
+- Infraestrutura e redes corporativas
+- Automação e DevOps
+- Containers e orquestração (Docker / Kubernetes)
+- Implantação de aplicações web
+- Gerenciamento de bancos de dados
+
+---
+
+## Tecnologias
+
+<p align="center">
+
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+
+</p>
 
 ---
 
 ## Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true&theme=default"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopfrazao&layout=compact&theme=default"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopfrazao&layout=compact"/>
 
-</div>
-
----
-
-## Tecnologias e Ferramentas
-
-<div align="center">
-
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-
-</div>
+</p>
 
 ---
 
-## Áreas de Atuação
+## Contribuições
 
-- Administração de servidores Linux
-- DevOps e automação de infraestrutura
-- Containers e orquestração (Docker / Kubernetes)
-- Bancos de dados relacionais
-- Implementação de APIs e sistemas web
-- Segurança e monitoramento de ambientes
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogopfrazao"/>
+
+</p>
 
 ---
 
 ## Contato
 
-<div align="center">
+<p align="center">
 
-<a href="mailto:diogopfrazao@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-0A66C2?style=for-the-badge">
-</a>
+[![Gmail](https://img.shields.io/badge/Email-Contato-blue?style=for-the-badge&logo=gmail)](mailto:diogopfrazao@gmail.com)
 
-<a href="https://www.linkedin.com/in/diogopfrazao">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diogopfrazao)
 
-</div>
+</p>
