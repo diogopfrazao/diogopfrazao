@@ -4,14 +4,15 @@ Profissional focado em **DevOps e infraestrutura**, com experiência em **servid
 Atuação voltada para **integração contínua (CI/CD), otimização de infraestrutura, escalabilidade, monitoramento e alta disponibilidade de sistemas**.
 
 💻 **Stack & Ferramentas**
-- Linux (Administração de servidores)
-- Docker / Containers
-- CI/CD
-- Git / GitHub
-- Nginx / Apache
-- PostgreSQL / MySQL
-- Cloud & Virtualização
-- Automação e Deploy
+- Automação de infraestrutura (Infrastructure as Code)
+- Containers e orquestração com Docker e Kubernetes
+- Integração e entrega contínua (CI/CD)
+- Administração de servidores Linux
+- Monitoramento e observabilidade de ambientes
+- Deploy e gerenciamento de aplicações em cloud (AWS / Google Cloud)
+- Gerenciamento de bancos de dados (PostgreSQL / MySQL)
+- Configuração de servidores web (Nginx / Apache)
+- Versionamento e automação com Git
 ---
 
 ## Tecnologias
@@ -33,33 +34,11 @@ Atuação voltada para **integração contínua (CI/CD), otimização de infraes
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopfrazao&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 ## Contribuições
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=diogopfrazao&theme=github-dark"/>
-
-</p>
-
----
-
-## Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=diogopfrazao&theme=tokyonight"/>
 
 </p>
 
