@@ -1,22 +1,17 @@
-# Diogo Frazão
+## 🚀 DevOps | Linux | Cloud | Infraestrutura
 
-**Infraestrutura • DevOps • Linux • Cloud • Backend**
+Profissional focado em **DevOps e infraestrutura**, com experiência em **servidores Linux, automação de ambientes, containers e cloud computing**.  
+Atuação voltada para **integração contínua (CI/CD), otimização de infraestrutura, escalabilidade, monitoramento e alta disponibilidade de sistemas**.
 
-Administrador de sistemas e infraestrutura com experiência em servidores Linux, automação de ambientes, containers, cloud computing e desenvolvimento de aplicações web.
-
----
-
-## Sobre
-
-Profissional de tecnologia com atuação em:
-
-- Administração de servidores Linux
-- Infraestrutura e redes corporativas
-- Automação e DevOps
-- Containers e orquestração (Docker / Kubernetes)
-- Implantação de aplicações web
-- Gerenciamento de bancos de dados
-
+💻 **Stack & Ferramentas**
+- Linux (Administração de servidores)
+- Docker / Containers
+- CI/CD
+- Git / GitHub
+- Nginx / Apache
+- PostgreSQL / MySQL
+- Cloud & Virtualização
+- Automação e Deploy
 ---
 
 ## Tecnologias
