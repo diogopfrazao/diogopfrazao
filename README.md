@@ -10,7 +10,7 @@ Atuação voltada para **integração contínua (CI/CD), otimização de infraes
 - Administração de servidores Linux
 - Monitoramento e observabilidade de ambientes
 - Deploy e gerenciamento de aplicações em cloud (AWS / Google Cloud)
-- Gerenciamento de bancos de dados (PostgreSQL / MySQL)
+- Gerenciamento de bancos de dados (PostgreSQL / MySQL /Oracle)
 - Configuração de servidores web (Nginx / Apache)
 - Versionamento e automação com Git
 ---
