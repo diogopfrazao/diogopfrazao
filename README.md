@@ -41,10 +41,20 @@ Profissional de tecnologia com atuação em:
 ## Estatísticas do GitHub
 
 <p align="center">
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopfrazao&layout=compact&theme=github_dark"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopfrazao&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## Contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=diogopfrazao&theme=github-dark"/>
 
 </p>
 
