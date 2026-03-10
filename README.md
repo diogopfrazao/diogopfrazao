@@ -42,9 +42,9 @@ Profissional de tecnologia com atuação em:
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=diogopfrazao&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopfrazao&layout=compact"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopfrazao&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -54,7 +54,7 @@ Profissional de tecnologia com atuação em:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogopfrazao"/>
+<img src="https://streak-stats.demolab.com?user=diogopfrazao&theme=tokyonight"/>
 
 </p>
 
@@ -64,7 +64,7 @@ Profissional de tecnologia com atuação em:
 
 <p align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-Contato-blue?style=for-the-badge&logo=gmail)](mailto:diogopfrazao@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contato-blue?style=for-the-badge&logo=gmail)](mailto:diogopfrazao@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diogopfrazao)
 
